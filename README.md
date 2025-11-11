@@ -9,17 +9,7 @@
 
 ###
 
-<h5 align="center">My name is Ian Carlos and I'm a Software Engineering stundent 💻 from Brazil. I am currently in the 2nd of 9 semesters of the Software Engineering course at the Federal University of Goiás (UFG) and I intend to start my career as a full-stack web developer. <br><br>In addition, I am now studying and learning Django and a bit of Automation and AI. I aim to specialize as much as possible in Python to explore other fields such as cybersecurity, data science and artificial intelligence. <br><br>Finally, I have an intermediate level of English - and I am working to advance and improve further - and I am also learning French and Russian.</h5>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-</div>
+<h5 align="center">My name is Ian Carlos and I'm a Software Engineering stundent 💻 from Brazil. I am currently in the 2nd of 9 semesters of the Software Engineering course at the Federal University of Goiás (UFG) and I intend to start my career as a full-stack web developer. <br><br>In addition, I am now studying a bit of Automation and AI. I aim to specialize as much as possible in Python to explore other fields such as cybersecurity, data science and artificial intelligence. <br><br>Finally, I have an intermediate level of English - and I am working to advance and improve further - and I am also learning French.</h5>
 
 ###
 
