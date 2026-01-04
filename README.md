@@ -10,7 +10,7 @@
 
 ###
 
-<h5 align="center">My name is Ian Carlos and I'm a Software Engineering stundent 💻 from Brazil. I am currently in the 2nd of 9 semesters of the Software Engineering course at the Federal University of Goiás (UFG) and I intend to start my career as a full-stack web developer. <br><br>In addition, I am now studying a bit of Automation and AI. I aim to specialize as much as possible in Python to explore other fields such as cybersecurity, data science and artificial intelligence. <br><br>Finally, I have an intermediate level of English - and I am working to advance and improve further - and I am also learning French.</h5>
+<h5 align="center">My name is Ian Carlos and I'm a Software Engineering student 💻 from Brazil. I am currently in the 3rd of 9 semesters of the Software Engineering course at the Federal University of Goiás (UFG) and I intend to start my career as a back-end developer. <br><br>In addition, I am focusing on back-end development and dedicated to studying Artificial Intelligence in my free time. I aim to specialize in Python due to its incredible versatility and its powerful capabilities in the field of AI. <br><br>Finally, I have an intermediate level of English and I am constantly working to advance and improve my skills further.</h5>
 
 ###
 
