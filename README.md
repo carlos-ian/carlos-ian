@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  I am a Software Engineering student (3rd/9th semester) at the Federal University of Goiás (UFG), passionate about back-end development, AI, athletics and other competitive sports, pop culture, and transforming creativity into innovative ideas.
+  I am a Software Engineering student (4th/9th semester) at the Federal University of Goiás (UFG), passionate about back-end development, AI, athletics and other competitive sports, pop culture, and transforming creativity into innovative ideas.
 </p>
 
 ###
