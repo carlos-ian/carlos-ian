@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  I am a Software Engineering student (4th/9th semester) at the Federal University of Goiás (UFG), passionate about back-end development, AI, athletics and other competitive sports, pop culture, and transforming creativity into innovative ideas.
+  I am a Software Engineering student (3rd/9th semester) at the Federal University of Goiás (UFG), passionate about back-end development, AI, athletics and other competitive sports, pop culture, and transforming creativity into innovative ideas.
 </p>
 
 ###
@@ -11,9 +11,9 @@
 <h2 align="center">📈 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carlos-ian&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" alt="stats graph" height="150" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=carlos-ian&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" alt="stats graph" height="150" />
   <img width="15" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carlos-ian&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="languages graph" height="150" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=carlos-ian&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="languages graph" height="150" />
 </div>
 
 ###
